@@ -1,4 +1,4 @@
 micro_wake_word:
   models:
-    - model: github://hoytmilllab/wakewords/nova.json@main
+    - model: github://hoytmilllab/wakewords/nova.json
       id: nova
