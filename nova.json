@@ -8,8 +8,8 @@
   "micro": {
     "probability_cutoff": 0.35,
     "sliding_window_size": 4,
-    "feature_step_size": 10,
-    "tensor_arena_size": 22860,
+    "feature_step_size": 20,
+    "tensor_arena_size": 18000,
     "minimum_esphome_version": "2024.7"
   }
 }
