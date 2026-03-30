@@ -3,11 +3,11 @@
   "wake_word": "Nova",
   "author": "Danny",
   "website": "",
-  "model": ""https://raw.githubusercontent.com/hoytmilllab/wakewords/main/nova.tflite",
+  "model": "https://raw.githubusercontent.com/hoytmilllab/wakewords/main/nova.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.35,
+    "probability_cutoff": 0.85,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 22860,
