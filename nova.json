@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Nova",
+  "wake_word": "nova",
   "author": "Danny",
   "model": "https://raw.githubusercontent.com/hoytmilllab/wakewords/main/nova.tflite",
   "trained_languages": ["en"],
